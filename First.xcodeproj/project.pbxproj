@@ -17,6 +17,7 @@
 		E15121A329AC2CE600309C0B /* FirstTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15121A229AC2CE600309C0B /* FirstTests.swift */; };
 		E15121AD29AC2CE600309C0B /* FirstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15121AC29AC2CE600309C0B /* FirstUITests.swift */; };
 		E15121AF29AC2CE600309C0B /* FirstUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15121AE29AC2CE600309C0B /* FirstUITestsLaunchTests.swift */; };
+		E15121BC29AC2DE400309C0B /* Hater.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15121BB29AC2DE400309C0B /* Hater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E15121A829AC2CE600309C0B /* FirstUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E15121AC29AC2CE600309C0B /* FirstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUITests.swift; sourceTree = "<group>"; };
 		E15121AE29AC2CE600309C0B /* FirstUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E15121BB29AC2DE400309C0B /* Hater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		E151217C29AC2CE200309C0B = {
 			isa = PBXGroup;
 			children = (
+				E15121BB29AC2DE400309C0B /* Hater.swift */,
 				E151218729AC2CE200309C0B /* First */,
 				E15121A129AC2CE600309C0B /* FirstTests */,
 				E15121AB29AC2CE600309C0B /* FirstUITests */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E15121BC29AC2DE400309C0B /* Hater.swift in Sources */,
 				E151218D29AC2CE200309C0B /* ViewController.swift in Sources */,
 				E151218929AC2CE200309C0B /* AppDelegate.swift in Sources */,
 				E151219329AC2CE200309C0B /* First.xcdatamodeld in Sources */,
